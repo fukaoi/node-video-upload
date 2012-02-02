@@ -1,7 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="node-video-upload" type="NodeJSConfigurationType" factoryName="Node JS" path-to-node="$USER_HOME$/bin/node" path-to-js-file="app.js">
-    <RunnerSettings RunnerId="NodeJS.run" />
-    <ConfigurationWrapper RunnerId="NodeJS.run" />
-    <method />
-  </configuration>
-</component>
