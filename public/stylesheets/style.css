@@ -1,7 +1,33 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+
 a {
-  color: #00b7ff;
+    color: #00b7ff;
+}
+
+.post {
+    float: left;
+    width: 800px;
+    margin: 20px;
+    border-top: dashed 2px;
+}
+
+.navi {
+    margin: 1em 1em 1em 3em;
+    float: left;
+}
+
+.navi a {
+    color: #808080;
+}
+
+.columHead {
+    font-size: 17px;
+    padding: 5px;
+}
+
+.colum {
+    padding: 5px;
 }
